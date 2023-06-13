@@ -11,6 +11,6 @@ The real strength of this tool lies in its ability to demonstrate two fundamenta
 
 The integration of Tkinter and Pygame ensures a smooth and visually appealing experience. Tkinter provides the foundation for the user interface, enabling the creation of buttons, menus, and other GUI elements. Pygame, on the other hand, delivers a powerful canvas for rendering the graph and visualizing the algorithms' progress. The combination of these two frameworks offers a comprehensive platform for users to explore and interact with graph visualization.
 
-Whether you're a student studying computer science, an enthusiast of graph theory, or simply interested in algorithms and visualization, the Shortest Path Visualizer is a valuable tool. It facilitates hands-on learning, allowing you to experiment with different graph structures and witness the behavior of BFS and Dijkstra's algorithm in real-time.
+Whether you're a computer science's student, an enthusiast of graph theory, or simply interested in algorithms and visualization, the Shortest Path Visualizer is a valuable tool. It facilitates hands-on learning, allowing you to experiment with different graph structures and witness the behavior of BFS and Dijkstra's algorithm in real-time.
 
 Unlock the world of graph traversal and shortest path algorithms with the Shortest Path Visualizer. Dive into the realm of graphs, witness the power of algorithms, and develop a deeper understanding of one of the most fundamental concepts in computer science.
